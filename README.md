@@ -1,2 +1,2 @@
 # Cardown
-This is a project for the lecture "Software Engineering" in 2023 at the Otto-von-Guericke university in Magdeburg.
+This is a project for the workshop "Software Engineering" in 2024 at the TAU university in Istanbul.
