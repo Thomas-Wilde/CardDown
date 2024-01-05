@@ -98,3 +98,33 @@ Antwort: Nutze den Tag!
 
 ## {BACK}
 Antwort: Schrippe
+
+# Wie viele Einwohner hat Istanbul?
+ca. 15.8 Millionen (Stand 2021)
+
+# Ein Istanbuler Stadtteil verdankt seinen Namen einer bekannten Inselgruppe im Marmarameer. Welcher?
+Prinzeninseln
+
+# An welchem Wochentag sind besonders viele Museen in Istanbul geschlossen?
+Montag (Quelle: google maps)
+
+# Unter welchem Namen ist die berühmte Sultan-Ahmed-Moschee (in Deutschland) besser bekannt?
+Blaue Moschee
+
+# In welchem Jahr war Istanbul "Kulturhauptstadt Europas"?
+2010
+
+# Welcher Turm gehört zu den Wahrzeichen Istanbuls?
+Galataturm
+
+# Unter welchen Namen war Istanbul früher bekannt?
+Byzanz, Konstantinopel
+
+# Welche Eigenschaft unterscheidet Istanbul von allen anderen Metropolen auf der ganzen Welt?
+Es liegt auf zwei Kontinenten
+
+# Istanbul hat zwei Partnerstädte in Deutschland - welche?
+Berlin & Köln
+
+# Welches ist das höchste Gebäude von Istanbul?
+Der Skyland Office Tower mit 293 Meter
